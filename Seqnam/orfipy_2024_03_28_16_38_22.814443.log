@@ -1,0 +1,6 @@
+2024-03-28 16:38:22 INFO     START LOG
+2024-03-28 16:38:22 INFO     Python info: 3.10.14 (main, Mar 21 2024, 16:24:04) [GCC 11.2.0]
+2024-03-28 16:38:22 INFO     orfipy version: 0.0.4
+2024-03-28 16:38:22 INFO     orfipy seqNAM.fasta --min 30 --max 1000000000 --procs 6 --chunk-size 155 --strand b --start TTG,CTG,ATG --stop TAA,TAG,TGA --table 1 --dna seqnam_orfs.fa --outdir SEQNAM_ORF
+2024-03-28 16:38:23 INFO     Processed 368 sequences in 0.25 seconds
+2024-03-28 16:38:23 INFO     END

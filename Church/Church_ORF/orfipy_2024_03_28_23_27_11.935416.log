@@ -1,0 +1,6 @@
+2024-03-28 23:27:11 INFO     START LOG
+2024-03-28 23:27:11 INFO     Python info: 3.10.14 (main, Mar 21 2024, 16:24:04) [GCC 11.2.0]
+2024-03-28 23:27:11 INFO     orfipy version: 0.0.4
+2024-03-28 23:27:11 INFO     orfipy SeqNAM_Church_subseqs.fa --min 30 --max 1000000000 --procs 6 --chunk-size 155 --strand b --start TTG,CTG,ATG --stop TAA,TAG,TGA --table 1 --dna SeqNAM_Church_ORF.fa --outdir Church_ORF
+2024-03-28 23:27:12 INFO     Processed 1250 sequences in 0.14 seconds
+2024-03-28 23:27:12 INFO     END

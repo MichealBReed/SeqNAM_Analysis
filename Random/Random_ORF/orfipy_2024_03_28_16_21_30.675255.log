@@ -1,0 +1,6 @@
+2024-03-28 16:21:30 INFO     START LOG
+2024-03-28 16:21:30 INFO     Python info: 3.10.14 (main, Mar 21 2024, 16:24:04) [GCC 11.2.0]
+2024-03-28 16:21:30 INFO     orfipy version: 0.0.4
+2024-03-28 16:21:30 INFO     orfipy random_sequence.fa --min 30 --max 1000000000 --procs 6 --chunk-size 155 --strand b --start TTG,CTG,ATG --stop TAA,TAG,TGA --table 1 --dna random_subseq_orfs.fa --outdir Random_ORF
+2024-03-28 16:21:30 INFO     Processed 368 sequences in 0.17 seconds
+2024-03-28 16:21:30 INFO     END
